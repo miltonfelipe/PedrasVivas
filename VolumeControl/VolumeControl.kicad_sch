@@ -14973,7 +14973,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_1210_3225Metric"
 			(at 104.14 255.27 0)
 			(effects
 				(font
